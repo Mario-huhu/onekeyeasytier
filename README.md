@@ -2,7 +2,7 @@
 
 一键组网，天下无敌。上面有windows版本，复制了在powershell运行就可以
 
-
+![ec9mmBQAWMdMVdkePVvogUYIT4YlodQo.png](https://cdn.nodeimage.com/i/ec9mmBQAWMdMVdkePVvogUYIT4YlodQo.png)
 ```
 bash <(curl -sL https://raw.githubusercontent.com/ceocok/c.cococ/refs/heads/main/easytier.sh)
 ```
